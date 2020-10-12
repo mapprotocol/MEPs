@@ -1,2 +1,2 @@
 # MEPs
-MarcoPolo enhancement proposals.
+MAP Protocol Enhancement Proposals.
